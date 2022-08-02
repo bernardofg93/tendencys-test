@@ -1,0 +1,22 @@
+.bx-number {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.number-container {
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 1.80rem;
+    margin-top: 3px;
+}
